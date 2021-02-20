@@ -1,0 +1,8 @@
+.vs/
+.git/
+*.cache
+obj/
+README.md
+LICENSE
+bin/
+packages/
